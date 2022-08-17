@@ -1,0 +1,9 @@
+/.metadata/
+/.*
+*.class
+*.jar
+*.war
+target/
+.project
+.classpath
+.settings/
